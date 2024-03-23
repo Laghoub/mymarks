@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue</title>
+</head>
+<body>
+    <h1>Bienvenue</h1>
+    <div id="student-info"></div>
+
+    <script>
+        // Données de l'élève
+        const matricule = 1234; // Remplacer par le matricule récupéré
+        const nom = "Laghoub"; // Remplacer par le nom récupéré
+        const prenom = "Nassim"; // Remplacer par le prénom récupéré
+        const note = 17; // Remplacer par la note récupérée
+
+        // Afficher les informations de l'élève
+        const studentInfo = document.getElementById('student-info');
+        studentInfo.innerHTML = `<p>Matricule: ${matricule}</p>
+                                  <p>Nom: ${nom}</p>
+                                  <p>Prénom: ${prenom}</p>
+                                  <p>Note: ${note}</p>`;
+    </script>
+</body>
+</html>

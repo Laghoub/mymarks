@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire de Connexion</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.min.js"></script>
+
+    <script src="script.js"></script> <!-- Inclure votre fichier script.js après jsPDF -->
+
+</head>
+<body>
+    <div class="container">
+        <p>Association Soummam pour l'enfance et la jeunesse</p>
+        <img src="logo.png" alt="Logo" class="logo"> <!-- Placez votre logo ici -->
+        <h2>Mes notes de BEM et BAC Blanc</h2>
+        <form id="loginForm">
+            <label for="matricule">Matricule:</label>
+            <input type="text" id="matricule" name="matricule" required><br><br>
+            <label for="mdp">Mot de passe:</label>
+            <input type="password" id="mdp" name="mdp" required><br><br>
+            <input type="submit" value="Voir mes notes">
+        </form>
+
+        <div id="userInfo" style="display:none;">
+            <br>
+            <h3 id="userName"></h3>
+            <h3>Filiere: Scientifique</h3>
+            <table id="userNotes"></table>
+            <button id="downloadButton">Télécharger les notes au format PDF</button>
+
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script> <!-- Inclure la bibliothèque jsPDF -->
+</body>
+</html>
