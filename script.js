@@ -114,7 +114,7 @@ var users = [
      "Mathématiques": 6.75,
      "Langue Arabe": 14,
      "Filiere": "Matheleme",
-     "Matricule": "07062007",
+     "Matricule": "7062007",
      "Nom et prénom": "موفق حملاوي عماد"
     },
     {
@@ -166,7 +166,7 @@ var users = [
      "Mathématiques": 5.25,
      "Langue Arabe": 11.25,
      "Filiere": "Scientifique",
-     "Matricule": "04052007",
+     "Matricule": "4052007",
      "Nom et prénom": "آيت أحمد أحلام"
     },
     {
@@ -192,7 +192,7 @@ var users = [
      "Mathématiques": 4.75,
      "Langue Arabe": 11.5,
      "Filiere": "Scientifique",
-     "Matricule": "08082006",
+     "Matricule": "8082006",
      "Nom et prénom": "تواري روميسة"
     },
     {
@@ -218,7 +218,7 @@ var users = [
      "Mathématiques": 10.25,
      "Langue Arabe": "غائب",
      "Filiere": "Matheleme",
-     "Matricule": "08112006",
+     "Matricule": "8112006",
      "Nom et prénom": "حبوش نوح"
     },
     {
@@ -296,7 +296,7 @@ var users = [
      "Mathématiques": 5.5,
      "Langue Arabe": 7,
      "Filiere": "Scientifique",
-     "Matricule": "04072007",
+     "Matricule": "4072007",
      "Nom et prénom": "أعراب نهاد"
     },
     {
@@ -361,7 +361,7 @@ var users = [
      "Mathématiques": 1,
      "Langue Arabe": 9.25,
      "Filiere": "Scientifique",
-     "Matricule": "04042005",
+     "Matricule": "4042005",
      "Nom et prénom": "بوسعيدي عبد النور"
     },
     {
@@ -413,7 +413,7 @@ var users = [
      "Mathématiques": 17.5,
      "Langue Arabe": 16,
      "Filiere": "\/",
-     "Matricule": "07072009",
+     "Matricule": "7072009",
      "Nom et prénom": "تومي جمانة"
     },
     {
@@ -426,7 +426,7 @@ var users = [
      "Mathématiques": 17.5,
      "Langue Arabe": 15,
      "Filiere": "\/",
-     "Matricule": "09102009",
+     "Matricule": "9102009",
      "Nom et prénom": "خنوس محمد منصف عبد القادر"
     },
     {
@@ -569,7 +569,7 @@ var users = [
      "Mathématiques": 5,
      "Langue Arabe": 11,
      "Filiere": "\/",
-     "Matricule": "05072009",
+     "Matricule": "5072009",
      "Nom et prénom": "دهيري روان"
     },
     {
@@ -647,7 +647,7 @@ var users = [
      "Mathématiques": 7.5,
      "Langue Arabe": 7.25,
      "Filiere": "\/",
-     "Matricule": "05072009",
+     "Matricule": "5072009",
      "Nom et prénom": "رميدة محمد المعتصم بالله"
     },
     {
@@ -712,7 +712,7 @@ var users = [
      "Mathématiques": 4.5,
      "Langue Arabe": 9,
      "Filiere": "\/",
-     "Matricule": "05072009",
+     "Matricule": "5072009",
      "Nom et prénom": "شهبي رانيا"
     },
     {
