@@ -762,6 +762,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
 
         // Affiche les informations de l'utilisateur
         document.getElementById('userName').innerText = user["Nom et prénom"];
+        document.getElementById('filiere').innerText = user.Filiere;
         document.getElementById('userNotes').innerHTML = `
             <tr>
                 <th>Matière</th>
