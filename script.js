@@ -792,12 +792,12 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
                 <td>${user["Sciences naturelles"]}</td>
             </tr>
             <tr>
-            <td>Moyenne générale</td>
-            <td>${user.Moyenne}</td>
+            <th>Moyenne générale</th>
+            <th>${user.Moyenne}</th>
         </tr>
         <tr>
-        <td>Mention</td>
-        <td>${user.Mention}</td>
+        <th>Mention</th>
+        <th>${user.Mention}</th>
     </tr>
         `;
         document.getElementById('userInfo').style.display = 'block';
